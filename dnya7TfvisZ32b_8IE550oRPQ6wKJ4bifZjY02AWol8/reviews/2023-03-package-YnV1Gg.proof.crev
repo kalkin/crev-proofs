@@ -50,3 +50,27 @@ comment: |-
 lkm7eQk2BZDdnKTdcpPGoiimfzXW-MNmm40hpQeXi6De05_zvspVJeGuCpa8cmmyNSscH-6qaSafoH_wGpjcAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-03-06T21:45:54.216199086+01:00
+from:
+  id-type: crev
+  id: dnya7TfvisZ32b_8IE550oRPQ6wKJ4bifZjY02AWol8
+  url: https://github.com/kalkin/crev-proofs
+package:
+  source: https://crates.io
+  name: clap-verbosity-flag
+  version: 2.0.0
+  revision: 82b172291c8de5ef4bc51302ade9809253f28a1c
+  digest: ZHuSyrKVRjVEFkY0pf8W-CQUjS9lCMnBa5waBKVTY-E
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Very simple code
+----- SIGN CREV PROOF -----
+QUr6_2ScIPky5YhMNhCwchbVGckpwYgfYFwAc9ZfDUwe8swfKqDmo4HD4IJhzzPnLHKWu36O4f4nPqJYSwmsAg
+----- END CREV PROOF -----
+
