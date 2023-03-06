@@ -26,3 +26,27 @@ comment: |-
 2tLkVK-zzvDtcZ8qFSoubp4sxbQCv9fF1e7ZPKF_tOf2nadU3mSKRq3yf80EjyqXjQMcl7Cj7Y7P_9LST7eBBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-03-06T21:40:04.081510468+01:00
+from:
+  id-type: crev
+  id: dnya7TfvisZ32b_8IE550oRPQ6wKJ4bifZjY02AWol8
+  url: https://github.com/kalkin/crev-proofs
+package:
+  source: https://crates.io
+  name: bkg-cli-log
+  version: 0.2.0
+  revision: 4f3c2bffb3901299ab362b8dd2475e509b142eb3
+  digest: SIe9vQtAOKYLg_aVYMUnatxdG2QpuNGwi-_u1efYTDs
+review:
+  thoroughness: medium
+  understanding: high
+  rating: neutral
+comment: |-
+  A very simple package, written by me.
+----- SIGN CREV PROOF -----
+lkm7eQk2BZDdnKTdcpPGoiimfzXW-MNmm40hpQeXi6De05_zvspVJeGuCpa8cmmyNSscH-6qaSafoH_wGpjcAg
+----- END CREV PROOF -----
+
