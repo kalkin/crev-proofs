@@ -58,3 +58,19 @@ trust: medium
 NqmP_bEAhyo04j_yoUcUIHBkLRAr1BB4cwQTt2LPR-LLpYFc_vGQZ3pSfesVpjT_oqNZR1Z7hAOoZPN2NcVyBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2023-03-06T21:27:53.284351528+01:00
+from:
+  id-type: crev
+  id: dnya7TfvisZ32b_8IE550oRPQ6wKJ4bifZjY02AWol8
+ids:
+- id-type: crev
+  id: 6OZqHXqyUAF57grEY7IVMjRljdd9dgDxiNtr1NF1BdY
+  url: https://github.com/MaulingMonkey/crev-proofs
+trust: medium
+----- SIGN CREV PROOF -----
+hijoYmxPTkIuA7U29bUrKFoe7X5vhYRkIA0a14PRwuLPhA_1jQKKr7_wvl2AdiyfLJCr6HwF5pIqmAsFG05XAA
+----- END CREV PROOF -----
+
