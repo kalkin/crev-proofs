@@ -74,3 +74,27 @@ comment: |-
 QUr6_2ScIPky5YhMNhCwchbVGckpwYgfYFwAc9ZfDUwe8swfKqDmo4HD4IJhzzPnLHKWu36O4f4nPqJYSwmsAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-03-06T21:59:34.505465877+01:00
+from:
+  id-type: crev
+  id: dnya7TfvisZ32b_8IE550oRPQ6wKJ4bifZjY02AWol8
+  url: https://github.com/kalkin/crev-proofs
+package:
+  source: https://crates.io
+  name: terminal-link
+  version: 0.1.0
+  revision: 2d959ed602e7f53232ad9c960c0c94fa8a6ba362
+  digest: s4DjiW4KVDBUxoGqlMvXun2GKWT1PVJ2C40V97q8x0g
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |-
+  A small and simple crate without any dependencies.
+----- SIGN CREV PROOF -----
+BRgUJ1kUddp3RyPmQ468z1DXsQZ_lbj4Cp0rZuYJyomH1RB2LYiix7wYCSqDiO9DHQX30G_bro_WUhkrKbmoAw
+----- END CREV PROOF -----
+
