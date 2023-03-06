@@ -1,0 +1,28 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-03-06T21:29:27.918059947+01:00
+from:
+  id-type: crev
+  id: dnya7TfvisZ32b_8IE550oRPQ6wKJ4bifZjY02AWol8
+package:
+  source: https://crates.io
+  name: clap
+  version: 4.1.8
+  revision: f931de694a5478d7e4bd424613e6699f7d4f4e9f
+  digest: YobG_8qAphRST5VNcBRRr6MZQqQp0oRvVnF810TcSS4
+review:
+  thoroughness: low
+  understanding: medium
+  rating: neutral
+comment: |-
+  Since version 3 and continuing with the current version 4, `clap` has
+  been actively maintained and developed. The library is widely used in the Rust
+  community, and the author of this review has found it to be reliable and
+  effective for handling command-line arguments and options. Overall, it is a
+  well-documented library that provides a comprehensive solution for
+  command-line parsing in Rust projects.
+----- SIGN CREV PROOF -----
+2tLkVK-zzvDtcZ8qFSoubp4sxbQCv9fF1e7ZPKF_tOf2nadU3mSKRq3yf80EjyqXjQMcl7Cj7Y7P_9LST7eBBQ
+----- END CREV PROOF -----
+
